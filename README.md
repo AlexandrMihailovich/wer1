@@ -1,3 +1,3 @@
 # wer1
 sd
- https://alexandrmihailovich.github.io/wer1/index.html
+ (demo)[https://alexandrmihailovich.github.io/wer1/dist/index.html]
